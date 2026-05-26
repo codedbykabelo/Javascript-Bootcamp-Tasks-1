@@ -1,7 +1,7 @@
 //Variable Declaration
 
 let name = "Kabelo";
-let age = 20;
+let age = 24;
 let isStudent = true;
 
 console.log("Name:", name);
